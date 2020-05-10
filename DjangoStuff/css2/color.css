@@ -1,0 +1,30 @@
+h1{
+    text-align:center;
+}
+
+table.art{
+    margin:auto;
+}
+
+td {
+    height: 200px;
+    width: 100px;
+    background-color: blue;
+}
+
+td#a{
+    background:rgb(230, 57, 70);
+    heithgt:100%
+}
+td#b{
+    background:#f1faee;
+}
+td#c{
+    background:#a8dadc;
+}
+td#d{
+    background:#457b9d;
+}
+td#e{
+    background:#1d3557;
+}

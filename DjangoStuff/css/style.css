@@ -1,0 +1,18 @@
+body{
+    background-color:gray;
+    background:url(https://s17736.pcdn.co/wp-content/uploads/2019/03/joshua-earle-157231-unsplash-1024x683.jpg);
+}
+
+div{
+    background:red;
+    border-width:thick;
+    border-style:double;
+    border-color:blue
+    }
+p{
+    color:yellow;
+}
+
+span{
+border:dotted;
+}
